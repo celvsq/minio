@@ -23,4 +23,4 @@ jobs:
       with:
         host: http://ip10-0-193-4-cf7r8urkgm20151k25ug-9000.direct.lab-boris.fr
         login: 1e16d1ed06a8c525ffd1ae550a938a083983e9b2
-        projectKey: "Projet_test"
+        projectKey: "TEST"
